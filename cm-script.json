@@ -1,0 +1,35 @@
+{
+  "name": "Manual da CM",
+  "short_name": "Manual da CM",
+  "start_url": "https://www.manualdacm.com/",
+  "display": "standalone",
+  "description": "O seu app com o Manual Devocionário para uso diário",
+  "lang": "pt-BR",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-iSSgsg8ZKwY/XYy63_vdE0I/AAAAAAAAmko/Ef-ztY4RETMYyY6XomfAsuXnnR6HONQiwCLcBGAsYHQ/s1600/ico48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-g12rk_zNwfE/XYy64HQggjI/AAAAAAAAmks/l88MH2Z1bMoLTZpUbsReJdUE8cHA4bn9wCLcBGAsYHQ/s1600/ico72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NeEi-XWd-jo/XYy64Q7qpfI/AAAAAAAAmkw/MNxWe3yzul0oI8E3ZYalp-2-h0TurhYFACLcBGAsYHQ/s1600/ico96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ElPRyenYZV8/XYy63NQnFiI/AAAAAAAAmkk/89eJR-f9fYsBgMQqfBVOpKvjiDuIRKSlgCLcBGAsYHQ/s1600/ico144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dn2sQKLL4Do/XYy63Pji4RI/AAAAAAAAmkc/rFPPs1uboQM0MfwxSbreqZ5pZFtTGqWuACLcBGAsYHQ/s1600/ico168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-weTp-u-vp9o/XYy63Ns5E0I/AAAAAAAAmkg/FDPO-3BRpKUiOZH9rF6RExeJREZISG8uQCLcBGAsYHQ/s1600/ico192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+}
